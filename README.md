@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Seo isometric composition with human characters](./Images/seo-isometric-composition.svg)
+<p align="center">
+  <img src="./Images/Seo%20isometric%20composition.svg" alt="Isometric SEO illustration" width="450" />
+</p>
 <!--
 **Alvingimwa-gif/Alvingimwa-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
