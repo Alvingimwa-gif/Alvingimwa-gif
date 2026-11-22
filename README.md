@@ -3,9 +3,6 @@
 <p align="center">
   <img src="./Images/Seo%20isometric%20composition.svg" alt="Isometric SEO illustration" width="450" />
 </p>
-<p align="center">
-  <img src="./Images/Vinyl%20record%20-%20animated%20music%20player%20template%20(Augustus%20Edem).svg" alt="Animated vinyl record music player template" width="450" />
-</p>
 <!--
 **Alvingimwa-gif/Alvingimwa-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
