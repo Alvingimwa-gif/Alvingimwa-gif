@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![SVG](./Alvingimwa-gif/SVG.svg)
+![Seo isometric composition with human character](./Alvingimwa-gif/Seo isometric composition with human characters.svg)
 <!--
 **Alvingimwa-gif/Alvingimwa-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
