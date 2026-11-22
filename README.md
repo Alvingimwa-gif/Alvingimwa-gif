@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![SVG](./assets/seo-illustration.svg)
+![SVG](./Alvingimwa-gif/SVG.svg)
 <!--
 **Alvingimwa-gif/Alvingimwa-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
